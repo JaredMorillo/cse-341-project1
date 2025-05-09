@@ -13,7 +13,7 @@
   "license": "ISC",
   "author": "Jared Morillo",
   "type": "commonjs",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
